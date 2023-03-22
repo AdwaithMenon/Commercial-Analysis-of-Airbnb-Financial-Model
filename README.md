@@ -42,6 +42,11 @@ The resultant Tableau tool lets the users:
 ## _**Scalability of the Interactive Data Visualization Tool**_
 
 
+
+<img width="954" alt="image" src="https://user-images.githubusercontent.com/70052374/226819369-76f2624e-fcde-47f1-b381-e8cbb39d31a3.png">
+
+
+
 <img width="938" alt="image" src="https://user-images.githubusercontent.com/70052374/226817585-61186881-e22a-4f2f-8037-3ecf10aad810.png">
 
 
