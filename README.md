@@ -1,0 +1,1 @@
+# **Commercial Analysis :  Understanding the Impact of Airbnb Financial Model**
